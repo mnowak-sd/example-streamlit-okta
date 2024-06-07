@@ -1,5 +1,9 @@
 # Example Streamlit Okta
 
+Example of how to authenticate users using Okta OIDC in a Streamlit application.
+
+Uses the `streamlit-oauth` package, [more details here](https://github.com/dnplus/streamlit-oauth?tab=readme-ov-file#getting-started).
+
 ## Setup
 
 ### Configure Okta
